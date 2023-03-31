@@ -12,7 +12,7 @@ env:
   CORE_TYPE: mips64  #设备内核类型，请用小写字母，请勿乱写
   GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
   LEDE_URL: https://github.com/MoShengQ7/lede.git
-  LIST_URL: https://raw.githubusercontent.com/VIKINGYFY/OpenWRT-LEDE/main/Lists
+  LIST_URL: https://raw.githubusercontent.com/y1292851910/OpenWRT-LEDE/main/Lists
 
 permissions: write-all
 
