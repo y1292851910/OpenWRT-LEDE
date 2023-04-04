@@ -1,8 +1,6 @@
 name: OpenWRT-R4S  #设备型号，请用大写字母，请勿乱写
 
 on:
-  schedule:
-    - cron: 0 22 * * *
 
   workflow_dispatch:
 
